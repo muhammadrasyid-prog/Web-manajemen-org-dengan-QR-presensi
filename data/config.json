@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "name": "Muda Mudi Tegal Cabakan",
+    "tagline": "MMTC",
+    "vision": "Bersatu Jadi Ramai, Sendiri Kita Kuat.",
+    "mission": "Berguna Bagi Masyarakat.",
+    "founding_year": 2024,
+    "city": "Sleman"
+  },
+  "pengurus": [
+    {
+      "name": "Luthfi Imam",
+      "role": "Ketua Umum",
+      "photo": "https://lh3.googleusercontent.com/aida-public/AB6AXuA0lU4CU7t3UG8KaJGlYoL7yXg18QXiP5AfiGhLJZJxO6cqjPTiIQiD-pzxi2hfE7spBolXpwF4oy2UejSTc4ZuubztJxzh13GsDsQbmVSENWZGuT--PNLXCV6p3L6Hegk5ClcTKBb-joN_CUjXSNbS-FjGZBezntKTvDPmlR26DUNalyo7y7jDm2xkre25qluMDX1rFXaWmzvcWkwnbBa7qXip27kHmIdMTCVLqrudRrDwl8edblzmg-jMTKvCz8lyuaJVcXp3j8Q"
+    },
+    {
+      "name": "Rafly Putra",
+      "role": "Wakil Ketua",
+      "photo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFEJ5eBalEb8s2iZ3r4Ecpev-x5RCgLjvZEyV42mVxL4dImPssPuOO308C3eY4KQMfMBp6LrOzN_1vpgFKqLr4EYLtZdQg7IunnUdZL9AR3zm1xW0pBZ3KoeUC2bFnGKLlubsbF1YkcgGhJGAbgJ7-IaGlNTIpu7y9A70Zh4xr6lVYecZhuA0zjOA2HypDsW7wCNQ8hXusrBypZG7Otu3yshTHGzQBcTfpPd9H3PGGzrNvBiFoaWJaNAIb4IAi2uKCza_Rw9qCosU"
+    },
+    {
+      "name": "Linda",
+      "role": "Sekretaris",
+      "photo": "https://lh3.googleusercontent.com/aida-public/AB6AXuDS5CWDizH_SSnOllEgdh6w6ZdS6tMfbhpJMisy7hCymvxszjOfvi-jZV7CqQ0KQgusNxibMW56A3-DHX9CYFQH57XSlkF7CwQQFoBwqw9GMOCLRtxs6WELpl3NikWVWazeJOUuvsb1s8B66wBXImo-kg-lLNDTtjZlcHnklNOiaQH5k59PCidAbEEB7gXWGoOhLmJd2g_JBKAJMQFvtbf_Vp1TT5ii7aEW5A4GU6bBBGd4AMNITBh1CqTWnjN1k0ggnkC9Xzlze-A"
+    },
+    {
+      "name": "Yaini",
+      "role": "Bendahara",
+      "photo": "https://lh3.googleusercontent.com/aida-public/AB6AXuA9_k6AmPI47nKDsReo0AigiRUEHJAKsqZYkN4s7xzBR96VhSzivnlTaj3bQSgMa-feqoEv-MUswA_JW5OmgVG3GPhcsSCyUwwAwH5ZG5q9--QZ1c_JrvFVSzT48e17JoXrLMbaQcKgvnombJqjuMAdS2kTN6Q8gL_y8_ylTMRZzssUR1t1tVQliKcxZ11ydiSSABPmv9q-amTcXeYru6RX2fmLLL91TVdXF1cychSNKLpL7XfTXnmG1GA3wEBzEFItNYQcHRexAIU"
+    }
+  ],
+  "meetings": [
+    { "meeting_number": 1, "date": "2024-01-01" },
+    { "meeting_number": 2, "date": "2024-02-01" },
+    { "meeting_number": 3, "date": "2024-03-01" },
+    { "meeting_number": 4, "date": "2024-04-01" },
+    { "meeting_number": 5, "date": "2024-05-01" },
+    { "meeting_number": 6, "date": "2024-06-01" },
+    { "meeting_number": 7, "date": "2024-07-01" },
+    { "meeting_number": 8, "date": "2024-08-01" },
+    { "meeting_number": 9, "date": "2024-09-01" },
+    { "meeting_number": 10, "date": "2024-10-01" },
+    { "meeting_number": 11, "date": "2024-11-01" },
+    { "meeting_number": 12, "date": "2024-12-01" }
+  ],
+  "admin": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "gallery": [
+    {
+      "url": "/images/bakar25.jpeg",
+      "caption": "Makrab 2025"
+    },
+    {
+      "url": "/images/healing25.jpeg",
+      "caption": "Healing 2025"
+    },
+    {
+      "url": "/images/bukber26.jpeg",
+      "caption": "Bukber 2026"
+    },
+    {
+      "url": "/images/bakar25.jpeg",
+      "caption": "Makrab 2025"
+    },
+    {
+      "url": "/images/healing25.jpeg",
+      "caption": "Healing 2025"
+    },
+    {
+      "url": "/images/bukber26.jpeg",
+      "caption": "Bukber 2026"
+    },
+        {
+      "url": "/images/bakar25.jpeg",
+      "caption": "Makrab 2025"
+    },
+    {
+      "url": "/images/healing25.jpeg",
+      "caption": "Healing 2025"
+    },
+    {
+      "url": "/images/bukber26.jpeg",
+      "caption": "Bukber 2026"
+    }
+  ]
+}
